@@ -1,5 +1,5 @@
 # 👩‍💻 Sobre Mim:
-- 👩‍💻 Atualmente estudante no programa DevInHouse.
+- 👩‍💻 Atualmente estudo JavaScript.
 - 🖥️ Apaixonado por desenvolvimento front-end.
 - 🎨 Acredito que criar interfaces é a expressão mais próxima da arte para mim.
 
@@ -7,8 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ifernandes.q/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fernandes-097611114/) 
 
 # 💻 Tecnologias:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23778BC6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 # 📊 Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IgorFernandesQuaresma&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorFernandesQuaresma&theme=gotham&hide_border=false)<br/>
