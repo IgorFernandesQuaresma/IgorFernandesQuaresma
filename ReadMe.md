@@ -1,7 +1,7 @@
 ![Logo](https://ik.imagekit.io/igordev/Logo/IgorDev%20(2).png?tr=w-200)
 
 ## 🚀 Sobre mim
-Desenvolvedor full stack com sólida experiência em tecnologias como JavaScript, HTML, CSS, TypeScript, MySQL, Bootstrap, Scss, Node, React e Metodologias Ágeis.
+Desenvolvedor full stack com sólida experiência em tecnologias como Java, JavaScript, HTML, CSS, TypeScript, SpringBoot MySQL, Bootstrap, Scss, Node, React e Metodologias Ágeis.
 
 ## 🌐 Redes Sociais:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ifernandesdev.netlify.app/)
