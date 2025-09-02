@@ -9,7 +9,7 @@ Desenvolvedor full stack com sólida experiência em tecnologias como Java, Java
 
 
 ## 🛠 Habilidades
-Java, SpringBoot, JavaScript, HTML, CSS, TypeScript, MySQL, Bootstrap, Scss, Node, React, Nest.js, Postgres e Metodologias Ágeis
+Java, SpringBoot, C#, .NET, JavaScript, HTML, CSS, TypeScript, MySQL, Bootstrap, Scss, Node, React, Nest.js, Postgres e Metodologias Ágeis
 
 # 💻 Tecnologias:
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -22,6 +22,8 @@ Java, SpringBoot, JavaScript, HTML, CSS, TypeScript, MySQL, Bootstrap, Scss, Nod
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
 
